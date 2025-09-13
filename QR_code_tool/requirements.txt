@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+pyzbar>=0.1.8
+numpy>=1.19.0
+qrcode>=8.2
+pillow>=8.0.0
+opencv-python>=4.5.0  # 用于处理GIF和视频
